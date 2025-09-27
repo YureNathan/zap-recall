@@ -4,7 +4,7 @@ import FlashCardsMain from "./components/FlashCardsMain";
 export default function App() {
   return (
     <>
-      <Header></Header>
+      <Aplication></Aplication>
     </>
   );
 }

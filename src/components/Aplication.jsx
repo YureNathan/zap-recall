@@ -5,7 +5,7 @@ import Logo from "../assets/logo.png";
 import Footer from "./Footer";
 import FlashCardsMain from "./FlashCardsMain";
 
-export default function Header() {
+export default function Aplication() {
   const [respostas, setRespostas] = useState([]);
 
   function registrarResposta(index, opcao) {
